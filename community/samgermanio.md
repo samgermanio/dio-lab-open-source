@@ -47,5 +47,5 @@ I'm always open to opportunities to collaborate and contribute to interesting pr
 Badges
 ------
 
- [![](https://img.shields.io/badge/Seguran%C3%A7a_Cibern%C3%A9tica-Expert-blue)](https://www.linkedin.com/in/samuelgermanio/)[![](https://img.shields.io/badge/Engenharia_Social-Pro-blue) ](https://www.linkedin.com/in/samuelgermanio/)[![](https://img.shields.io/badge/PNL-Master-green)](https://www.linkedin.com/in/samuelgermanio/)
+ [![](https://img.shields.io/badge/Seguran%C3%A7a_Cibern%C3%A9tica-Expert-blue)](https://www.linkedin.com)[![](https://img.shields.io/badge/Engenharia_Social-Pro-blue) ](https://www.linkedin.com)[![](https://img.shields.io/badge/PNL-Master-green)](https://www.linkedin.com)
 
